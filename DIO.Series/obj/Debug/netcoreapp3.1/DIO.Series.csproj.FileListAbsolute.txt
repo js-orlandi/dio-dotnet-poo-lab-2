@@ -1,0 +1,10 @@
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\jsorl\Desktop\dio-dotnet-poo-lab-2-master\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
